@@ -1,0 +1,5 @@
+﻿学习Git
+这是第一个放在Git仓库的文件第三次修改
+This is first file put into Git base.
+Git is a distributed version control system.
+Git is free software distributed under the GPL.

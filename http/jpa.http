@@ -1,0 +1,12 @@
+###
+GET http://localhost:8080/teacher/get HTTP/1.1
+
+###
+PUT http://localhost:8080/teacher/save HTTP/1.1
+Content-Type: application/json
+
+{"id":"2","age":"35","info":"测试","name":"张老师"}
+
+
+###
+GET http://localhost:8080/teacher/mapper/2 HTTP/1.1
